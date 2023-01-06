@@ -1,2 +1,3 @@
 # Demo1
-just for demo
+Mini project (using openCV and easyOCR)
+Text recognition(image to text)
